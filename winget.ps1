@@ -25,3 +25,10 @@ winget install -e --id Python.Python;
 winget install -e --id Tutanota.Tutanota;
 
 winget install -e --id VideoLAN.VLC;
+
+winget install -e --id WinMerge.WinMerge;
+winget install -e --id Spotify.Spotify;
+winget install -e --id Notepad++.Notepad++ 
+winget install -e --id PuTTY.PuTTY 
+winget install -e --id DominikReichl.KeePass 
+winget install -e --id mRemoteNG.mRemoteNG
