@@ -49,3 +49,8 @@ winget install -e --id qBittorrent.qBittorrent;
 winget install -e --id vim.vim;
 
 ```
+
+
+```
+https://github.com/muradbu/winget-script/blob/main/winget.ps1
+```
